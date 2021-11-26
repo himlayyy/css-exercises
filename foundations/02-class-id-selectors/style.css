@@ -1,0 +1,16 @@
+.odd{
+    background-color:rgb(218, 166, 166);
+    font-family:verdana, sans-serif ;
+}
+#div-two{
+    color:rgb(112, 152, 212);
+    font-size:36px;
+}
+.odd-div{
+    font-size:24px;
+}
+#div-three{
+    background-color:rgb(181, 231, 181);
+    font-weight:bold;
+    font-size:24px;
+}
