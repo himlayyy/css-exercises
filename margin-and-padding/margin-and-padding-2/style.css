@@ -43,3 +43,8 @@ button {
   border: 1px solid #eee;
   padding:8px 24px;
 }
+
+.box{
+  justify-content:center;
+  align-items: center;
+}
